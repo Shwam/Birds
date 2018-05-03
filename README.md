@@ -29,8 +29,8 @@ The webscraper is a standalone tool which can be used to create datasets from ht
 
 A few datasets are provided for classification:
 - `bbs` : The British Bird Song dataset found at https://www.kaggle.com/rtatman/british-birdsong-dataset
-- `dataset1` : 6 species of birds, from https://xeno-canto.org
-- `dataset2` : A slightly trimmed down version of dataset1
+- `dataset1` : 6 species of birds, 512 samples, from https://xeno-canto.org
+- `dataset2` : A slightly trimmed down version of dataset1; 306 samples
 
 
 ## Clustering

@@ -5,7 +5,6 @@ import threading
 from Queue import Queue
 from pyAudioAnalysis import audioBasicIO
 from pyAudioAnalysis import audioFeatureExtraction
-import matplotlib.pyplot as plt
 import util
 
 def main():
