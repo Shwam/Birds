@@ -22,6 +22,7 @@ The webscraper is a standalone tool which can be used to create datasets from ht
 
 ## Feature Extraction
 `./preprocess.py` performs feature extraction on the metadata.csv present in the same directory. There should also be a `./songs/` directory in the same location with recordings corresponding to each item in the metadata. The extracted features are pickled and placed in `./features`
+
 `./pyAudioPreprocess` extracts Mel spectrum features us pyAudioAnalysis, and pickles them to `F`.
 
 ## Classifier
